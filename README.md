@@ -1,20 +1,22 @@
-## Hej! My name is Rick
+## 👋 Hej! My name is Rick
+🧠 Currently, I'm pursuing a Bachelor's in Computer Science with a focus on Software Technology and conducting research in Applied AI at Linnaeus University – [Google Scholar](https://scholar.google.com/citations?user=WeqNc00AAAAJ&hl=sv&oi=ao)  
+🎓 I’m a full-stack web developer and AI enthusiast with a deep-rooted passion for technology and entrepreneurship  
+🌍 I aim to choose the path that yields the maximum positive impact per unit of my geekiness
 
-👋 I'm a full-stack web developer and AI enthusiast with a deep-rooted passion for technology and entrepreneurship. My journey began at age 6. Coming from very humble beginnings, I have worked hard to build a great life in Sweden. The amazing people who helped me along the way have inspired me to leverage my love for technology to make the world a better place through innovation.
+## My Joruney from Humble Beginnings to Tech Entrepreneurship 
+💻 My journey began at age 6 when my mom enrolled me in a computer fundamentals course in our small hometown of Ogre, Latvia. I immediately fell in love with computers. One vivid memory from my childhood is when we bought expired groceries from a church to get by. Coming from very humble beginnings, I have worked hard to build a successful life in Sweden. I am thankful for the people I met along the way, as my success is not only a product of my determination and hard work but also the passion and investment of many different people into me as a person.
 
-👨‍🏫 I kicked off my career as a computer science tutor in supplementary education at 15 and smoothly transitioned into web development in 2021. Currently, I'm pursuing a bachelor's degree in computer science with a specialization in software technology.
+📚 A significant milestone in my life was getting a job as a computer science tutor at the age of 15 with the biggest supplementary education provider in Russia. This impressive achievement at such a young age sparked hope in me that one day I would be capable of doing big and great things. This hope led to another great milestone: my first job as a frontend developer in a big eCommerce marketplace with 5+ million users across three different countries. At the time, I was 19 years old.
 
-🔬 Alongside my studies, I conduct research in applied artificial intelligence and enhance my problem-solving skills through hackathons and additional math courses at my university.
+🎓 The biggest milestone of all came when I was accepted into a bachelor's program in Sweden. There, one of my professors not only offered me a salary but also the opportunity to invest in research, marking a turning point in my career.
 
-🚀 My goal is to develop a strong foundation in software technology, mathematics, and entrepreneurship to maximize the value I can generate for society. After graduation, I'm open to opportunities in:
+💪 Today, my journey from those early days to my current endeavors is a testament to the power of perseverance and community support. Inspired by my experiences and the incredible people who helped me along the way, I am committed to leveraging my passion for technology to create innovative solutions that make the world a better place.
+
+🚀 After graduation, I'm open to opportunities in:
 
 - Startups
 - Innovative projects in large corporations
 - Research institutions
-
-🌍 I aim to choose the path that yields the maximum positive impact per unit of my geekiness
-
-You can check out my research papers on [Google Scholar](https://scholar.google.com/citations?user=WeqNc00AAAAJ&hl=sv&oi=ao)
 
 ## ⭐ I have experience in
 
@@ -45,5 +47,5 @@ You can check out my research papers on [Google Scholar](https://scholar.google.
 ## 🏆 Proudest Achievements
 
 - Youngest Employee (15 years old) – [Unium](https://unium.ru) – the biggest supplementary education provider for kids in Russia
-- First Job Offer in Development (19 years old) – [Blizko](https://blizko.ru/) – eCommerce platform with 5+ million monthly users in Russia, Ukraine and Kazakhstan
+- First Job Offer in IT (19 years old) – [Blizko](https://blizko.ru/) – eCommerce platform with 5+ million monthly users in Russia, Ukraine and Kazakhstan
 - [Research paper on AI-Enhanced Academic Writing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WeqNc00AAAAJ&citation_for_view=WeqNc00AAAAJ:u5HHmVD_uO8C) (21 years old) – Linnaeus University, Sweden
