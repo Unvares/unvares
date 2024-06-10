@@ -3,12 +3,10 @@
 🎓 I’m a full-stack web developer and AI enthusiast with a deep-rooted passion for technology and entrepreneurship  
 🌍 I aim to choose the path that yields the maximum positive impact per unit of my geekiness
 
-## My Joruney from Humble Beginnings to Tech Entrepreneurship 
-💻 My journey began at age 6 when my mom enrolled me in a computer fundamentals course in our small hometown of Ogre, Latvia. I immediately fell in love with computers. One vivid memory from my childhood is when we bought expired groceries from a church to get by. Coming from very humble beginnings, I have worked hard to build a successful life in Sweden. I am thankful for the people I met along the way, as my success is not only a product of my determination and hard work but also the passion and investment of many different people into me as a person.
-
+## My Joruney to Research in Artificial Intelligence 
 📚 A significant milestone in my life was getting a job as a computer science tutor at the age of 15 with the biggest supplementary education provider in Russia. This impressive achievement at such a young age sparked hope in me that one day I would be capable of doing big and great things. This hope led to another great milestone: my first job as a frontend developer in a big eCommerce marketplace with 5+ million users across three different countries. At the time, I was 19 years old.
 
-🎓 The biggest milestone of all came when I was accepted into a bachelor's program in Sweden. There, one of my professors not only offered me a salary but also the opportunity to invest in research, marking a turning point in my career.
+🎓 The biggest milestone of all came when I was accepted into a bachelor's program in Sweden. There, one of my professors not only offered me a salary but also the opportunity to invest in research, marking a turning point in my career. I am thankful for the people I met along the way, as my success is not only a product of my determination and hard work but also the passion and investment of many different people into me as a person.
 
 💪 Today, my journey from those early days to my current endeavors is a testament to the power of perseverance and community support. Inspired by my experiences and the incredible people who helped me along the way, I am committed to leveraging my passion for technology to create innovative solutions that make the world a better place.
 
