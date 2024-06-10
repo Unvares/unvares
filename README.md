@@ -3,7 +3,7 @@
 🎓 I’m a full-stack web developer and AI enthusiast with a deep-rooted passion for technology and entrepreneurship  
 🌍 I aim to choose the path that yields the maximum positive impact per unit of my geekiness
 
-## My Joruney to Research in Artificial Intelligence 
+## From a Small Town in Latvia to Researching Applied AI in Sweden
 💻 My journey began at age 6 when my mom enrolled me in a computer fundamentals course in our small hometown of Ogre, Latvia. I immediately fell in love with computers.
 
 📚 A significant milestone in my life was getting a job as a computer science tutor at the age of 15 with the biggest supplementary education provider in Russia. This impressive achievement at such a young age sparked hope in me that one day I would be capable of doing big and great things. This hope led to another great milestone: my first job as a frontend developer in a big eCommerce marketplace with 5+ million users across three different countries. At the time, I was 19 years old.
