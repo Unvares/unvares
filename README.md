@@ -1,22 +1,16 @@
 ## 👋 Hej! My name is Rick
-🧠 Currently, I'm pursuing a Bachelor's in Computer Science with a focus on Software Technology and conducting research in Applied AI at Linnaeus University – [Google Scholar](https://scholar.google.com/citations?user=WeqNc00AAAAJ&hl=sv&oi=ao)  
-🎓 I’m a full-stack web developer and AI enthusiast with a deep-rooted passion for technology and entrepreneurship  
-🌍 I aim to choose the path that yields the maximum positive impact per unit of my geekiness
+🧠 Researching Applied AI at Linnaeus University  
+🎓 Full-stack developer, AI enthusiast  
+🌍 Maximizing positive impact through tech  
 
 ## From a Small Town in Latvia to Researching Applied AI in Sweden
-💻 My journey began at age 6 when my mom enrolled me in a computer fundamentals course in our small hometown of Ogre, Latvia. I immediately fell in love with computers.
+💻 At age 6, I chose my path: tech enthusiast. I fell in love with computers in my hometown of Ogre, Latvia.
 
-📚 A significant milestone in my life was getting a job as a computer science tutor at the age of 15 with the biggest supplementary education provider in Russia. This impressive achievement at such a young age sparked hope in me that one day I would be capable of doing big and great things. This hope led to another great milestone: my first job as a frontend developer in a big eCommerce marketplace with 5+ million users across three different countries. At the time, I was 19 years old.
+📚 By 15, I leveled up to a computer science tutor at Unium, Russia's largest supplementary education provider, leading the charge against computer illiteracy.
 
-🎓 The biggest milestone of all came when I was accepted into a bachelor's program in Sweden. There, one of my professors not only offered me a salary but also the opportunity to invest in research, marking a turning point in my career. I am thankful for the people I met along the way, as my success is not only a product of my determination and hard work but also the passion and investment of many different people into me as a person.
+🎯 At 19, I conquered my first boss: a tech interview for a software developer position, landing a front-end developer role at an eCommerce marketplace with over 5 million users.
 
-💪 Today, my journey from those early days to my current endeavors is a testament to the power of perseverance and community support. Inspired by my experiences and the incredible people who helped me along the way, I am committed to leveraging my passion for technology to create innovative solutions that make the world a better place.
-
-🚀 After graduation, I'm open to opportunities in:
-
-- Startups
-- Innovative projects in large corporations
-- Research institutions
+🎓 At 21, I reached a pivotal milestone: securing a research assistant position in Applied AI while pursuing my bachelor's in Sweden. This opportunity marked a turning point in my career.
 
 ## ⭐ I have experience in
 
