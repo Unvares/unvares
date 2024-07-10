@@ -10,7 +10,7 @@
 
 🎯 At 19, I conquered my first boss: a tech interview for a software developer position, landing a front-end developer role at an eCommerce marketplace with over 5 million users.
 
-🎓 At 21, I reached a pivotal milestone: securing a research assistant position in Applied AI while pursuing my bachelor's in Sweden. This opportunity marked a turning point in my career.
+🎓 At 21, I reached a pivotal milestone: securing a research assistant position in Applied AI while pursuing my bachelor's in Sweden.
 
 ## ⭐ I have experience in
 
