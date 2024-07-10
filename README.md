@@ -6,7 +6,7 @@
 ## From a Small Town in Latvia to Researching Applied AI in Sweden
 💻 At age 6, I chose my path: tech enthusiast. I fell in love with computers in my hometown of Ogre, Latvia.
 
-📚 By 15, I leveled up to a computer science tutor at Unium, Russia's largest supplementary education provider, leading the charge against computer illiteracy.
+📚 By 15, I leveled up to a computer science tutor at Unium, Russia's largest supplementary education provider, leading clan raids against computer illiteracy.
 
 🎯 At 19, I conquered my first boss: a tech interview for a software developer position, landing a front-end developer role at an eCommerce marketplace with over 5 million users.
 
