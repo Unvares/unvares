@@ -4,13 +4,15 @@
 🌍 Maximizing positive impact through tech  
 
 ## From a Small Town in Latvia to Researching Applied AI in Sweden
-💻 At age 6, I chose my path: tech enthusiast. I fell in love with computers in my hometown of Ogre, Latvia.
+💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech. I guess it was some buff you get when you pick the class.
 
-📚 By 15, I leveled up to a computer science tutor at Unium, Russia's largest supplementary education provider, leading clan raids against computer illiteracy.
+📚 By 15, I chose a subclass: computer science tutor at the biggest supplementary education provider in Russia. This opened the option for clan raids on computer illiteracy and community events aimed at promoting a passion for technology in young students.
 
-🎯 At 19, I conquered my first boss: a tech interview for a software developer position, landing a front-end developer role at an eCommerce marketplace with over 5 million users.
+🎯 When the level count hit 19, I conquered my first boss: a tech interview at a big corporation. I was offered a position as a front-end developer for an eCommerce marketplace with over 5 million users.
 
-🎓 At 21, I reached a pivotal milestone: securing a research assistant position in Applied AI while pursuing my bachelor's in Sweden.
+🎓 Level 20 marked a big turn in my life: the search for something more hardcore than front-end, something related to innovation and research. To figure out what that was, I turned to the "game tutorial" – a bachelor's of computer science in Sweden.
+
+🌟 So here I am, 21 years old, doing research in the field of Applied AI and working as a full-stack developer for Linnaeus University.
 
 ## ⭐ I have experience in
 
