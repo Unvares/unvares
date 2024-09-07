@@ -1,18 +1,18 @@
-## 👋 Hej! My name is Rick
+## 👋 Hej! My name is Rick, I'm a full-stack developer and an AI enthusiast
+Currently, I'm:  
 🧠 Researching Applied AI at Linnaeus University  
-🎓 Full-stack developer, AI enthusiast  
 🌍 Maximizing positive impact through tech  
 
 ## From a Small Town in Latvia to Researching Applied AI in Sweden
-💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech. I guess it was some buff you get when you pick the class.
+💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech.
 
-📚 By 15, I chose a subclass: computer science tutor at the biggest supplementary education provider in Russia. This opened the option for clan raids on computer illiteracy and community events aimed at promoting a passion for technology in young students.
+📚 By 15, I chose a subclass: computer science tutor. This opened the option for clan raids on computer illiteracy and community events aimed at promoting a passion for technology in kids.
 
 🎯 When the level count hit 19, I conquered my first boss: a tech interview at a big corporation. I was offered a position as a front-end developer for an eCommerce marketplace with over 5 million users.
 
-🎓 Level 20 marked a big turn in my life: the search for something more hardcore than front-end, something related to innovation and research. To figure out what that was, I turned to the "game tutorial" – a bachelor's of computer science in Sweden.
+🎓 Level 20 marked a big turn in my life: the search for something more hardcore than front-end. To figure that out, I turned to the "game tutorial" – a bachelor's of computer science in Sweden.
 
-🌟 So here I am, 21 years old, doing research in the field of Applied AI and working as a full-stack developer for Linnaeus University.
+🌟 So here I am, 21 years old, involved with research and innovation in the field of Applied AI, Machine Learning and Education.
 
 ## ⭐ I have experience in
 
@@ -22,7 +22,6 @@
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
   - **TRAI (Trash Recycling AI)** – AI-driven web app promoting waste separation on LNU campus
-  - **AI Opera (Audience Interactive Opera)** – AI-driven app engaging audiences through interactive, performance-influencing experiences
   - **AWAITS (Academic Writing AI Tutoring System)** – AI-driven web-based tutoring system enhancing students' academic writing and helping professors track and improve education quality
 
 - **Frontend Development (2021 - 2023)**
@@ -44,4 +43,4 @@
 
 - Youngest Employee (15 years old) – [Unium](https://unium.ru) – the biggest supplementary education provider for kids in Russia
 - First Job Offer in IT (19 years old) – [Blizko](https://blizko.ru/) – eCommerce platform with 5+ million monthly users in Russia, Ukraine and Kazakhstan
-- [Research paper on AI-Enhanced Academic Writing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WeqNc00AAAAJ&citation_for_view=WeqNc00AAAAJ:u5HHmVD_uO8C) (21 years old) – Linnaeus University, Sweden
+- First Research Paper (21 years old) – [Linnaeus University](https://lnu.se/) – a case study for [AI-Enhanced Academic Writing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WeqNc00AAAAJ&citation_for_view=WeqNc00AAAAJ:u5HHmVD_uO8C)
