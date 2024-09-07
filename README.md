@@ -1,8 +1,6 @@
 ## 👋 Hej! My name is Rick, I'm a full-stack developer and an AI enthusiast
 ## Where Are My Recent Projects?
-If you're curious about my technical expertise, feel free to drop me a message. You can also check out my [LinkedIn](https://www.linkedin.com/in/rokmanis/). I’ve listed the companies I worked for, the technologies I used, and my key contributions there.
-
-Most of my side projects now evolve into research initiatives or startup ideas. Once they involve stakeholders, I have to keep them private.
+If you're curious about my technical expertise, feel free to drop me a message. You can also check out my [LinkedIn](https://www.linkedin.com/in/rokmanis/). Most of my side projects now evolve into research initiatives or startup ideas. Once they involve stakeholders, I have to keep them private.
 
 ## My Backstory: From a Small Town in Latvia to Researching Applied AI in Sweden
 💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech.
@@ -15,7 +13,7 @@ Most of my side projects now evolve into research initiatives or startup ideas. 
 
 🌟 So here I am, 21 years old, involved with research and innovation in the field of Applied AI, Machine Learning and Education.
 
-## ⭐ I have experience in
+## ⭐ My Expertise
 
 - **Full Stack Development (since 2023)**
   ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
