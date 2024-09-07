@@ -1,7 +1,8 @@
 ## 👋 Hej! My name is Rick, I'm a full-stack developer and an AI enthusiast
-Currently, I'm:  
-🧠 Researching Applied AI at Linnaeus University  
-🌍 Maximizing positive impact through tech  
+## Where Are My Recent Projects?
+I know—my repo list is full of half-baked prototypes from my junior days (we’ve all been there, right?). But don’t let that fool you. Most of my side projects now evolve into research initiatives or startup ideas. Once they involve stakeholders, I have to keep them private.
+
+If you're curious about my technical expertise, feel free to drop me a message. You can also check out my [LinkedIn](https://www.linkedin.com/in/rokmanis/). I’ve listed the companies I worked for, the technologies I used, and my key contributions there :)
 
 ## From a Small Town in Latvia to Researching Applied AI in Sweden
 💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech.
