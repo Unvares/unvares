@@ -1,6 +1,4 @@
 ## 👋 Hej! My name is Rick, I'm a full-stack developer and an AI enthusiast
-## Where Are My Recent Projects?
-If you're curious about my technical expertise, feel free to drop me a message. You can also check out my [LinkedIn](https://www.linkedin.com/in/rokmanis/). Most of my side projects now evolve into research initiatives or startup ideas. Once they involve stakeholders, I have to keep them private.
 
 ## My Backstory: From a Small Town in Latvia to Researching Applied AI in Sweden
 💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech.
@@ -11,7 +9,7 @@ If you're curious about my technical expertise, feel free to drop me a message. 
 
 🎓 Level 20 marked a big turn in my life: the search for something more hardcore than front-end. To figure that out, I turned to the "game tutorial" – a bachelor's of computer science in Sweden.
 
-🌟 So here I am, 21 years old, involved with research and innovation in the field of Applied AI, Machine Learning and Education.
+🌟 So here I am, 22 years old, involved with research and innovation in the field of Applied AI, Machine Learning and Education.
 
 ## ⭐ My Expertise
 
