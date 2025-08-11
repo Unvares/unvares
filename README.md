@@ -32,12 +32,12 @@
 - First Research Paper (21 years old) – [Linnaeus University](https://lnu.se/) – a case study for [AI-Enhanced Academic Writing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WeqNc00AAAAJ&citation_for_view=WeqNc00AAAAJ:u5HHmVD_uO8C)
 
 ## Backstory
-💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech.
+💻 **Level 6:** I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech.
 
-📚 By 15, I chose a subclass: computer science tutor. This opened the option for clan raids on computer illiteracy and community events aimed at promoting a passion for technology in kids.
+📚 **Level 15:** I chose a subclass: computer science tutor. This opened the option for clan raids on computer illiteracy and community events aimed at promoting a passion for technology in kids.
 
-🎯 When the level count hit 19, I conquered my first boss: a tech interview at a big corporation. I was offered a position as a front-end developer for an eCommerce marketplace with over 5 million users.
+🎯 **Level 19:** I conquered my first boss: a tech interview at a big corporation. I was offered a position as a front-end developer for an eCommerce marketplace with over 5 million users.
 
-🎓 Level 20 marked a big turn in my life: the search for something more hardcore than front-end. To figure that out, I turned to the "game tutorial" – a bachelor's of computer science in Sweden.
+🎓 **Level 20:** I turned to the "game tutorial" – a bachelor's of computer science in Sweden – to search for something deeper than just front-end.
 
 🌟 So here I am, 22 years old, involved with research and innovation in the field of Applied AI, Machine Learning and Education.
