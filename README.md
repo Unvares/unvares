@@ -1,16 +1,5 @@
 ## 👋 Hej! My name is Rick, I'm a full-stack developer and an AI enthusiast
 
-## My Backstory: From a Small Town in Latvia to Researching Applied AI in Sweden
-💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech.
-
-📚 By 15, I chose a subclass: computer science tutor. This opened the option for clan raids on computer illiteracy and community events aimed at promoting a passion for technology in kids.
-
-🎯 When the level count hit 19, I conquered my first boss: a tech interview at a big corporation. I was offered a position as a front-end developer for an eCommerce marketplace with over 5 million users.
-
-🎓 Level 20 marked a big turn in my life: the search for something more hardcore than front-end. To figure that out, I turned to the "game tutorial" – a bachelor's of computer science in Sweden.
-
-🌟 So here I am, 22 years old, involved with research and innovation in the field of Applied AI, Machine Learning and Education.
-
 ## ⭐ My Expertise
 
 - **Full Stack Development (since 2023)**
@@ -41,3 +30,14 @@
 - Youngest Employee (15 years old) – [Unium](https://unium.ru) – the biggest supplementary education provider for kids in Russia
 - First Job Offer in IT (19 years old) – [Blizko](https://blizko.ru/) – eCommerce platform with 5+ million monthly users in Russia, Ukraine and Kazakhstan
 - First Research Paper (21 years old) – [Linnaeus University](https://lnu.se/) – a case study for [AI-Enhanced Academic Writing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WeqNc00AAAAJ&citation_for_view=WeqNc00AAAAJ:u5HHmVD_uO8C)
+
+## Backstory
+💻 At age 6, I had to pick a class. "Geek it is," I thought, and immediately fell in love with tech.
+
+📚 By 15, I chose a subclass: computer science tutor. This opened the option for clan raids on computer illiteracy and community events aimed at promoting a passion for technology in kids.
+
+🎯 When the level count hit 19, I conquered my first boss: a tech interview at a big corporation. I was offered a position as a front-end developer for an eCommerce marketplace with over 5 million users.
+
+🎓 Level 20 marked a big turn in my life: the search for something more hardcore than front-end. To figure that out, I turned to the "game tutorial" – a bachelor's of computer science in Sweden.
+
+🌟 So here I am, 22 years old, involved with research and innovation in the field of Applied AI, Machine Learning and Education.
