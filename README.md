@@ -8,7 +8,7 @@
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
   - **[TRAI (Trash Recycling AI)](https://github.com/Unvares/trai)** – AI-driven web app promoting waste separation on LNU campus
-  - **AWAITS (Academic Writing AI Tutoring System)** – AI-driven web-based tutoring system enhancing students' academic writing and helping professors track and improve education quality
+  - **[CHAT4ISP-AI](https://doi.org/10.1145/3605098.3636055)** – AI-driven web-based tutoring system enhancing students' academic writing and helping professors track and improve education quality
 
 - **Frontend Development (2021 - 2023)**
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
