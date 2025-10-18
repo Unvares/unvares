@@ -2,7 +2,7 @@
 
 ## ⭐ My Expertise
 
-- **Full Stack Development (since 2023)**
+**Full Stack Development (since 2023)**
   ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -10,14 +10,14 @@
   - **[TRAI (Trash Recycling AI)](https://github.com/Unvares/trai)** – AI-driven web app promoting waste separation on LNU campus
   - **[CHAT4ISP-AI](https://doi.org/10.1145/3605098.3636055)** – AI-driven web-based tutoring system enhancing students' academic writing and helping professors track and improve education quality
 
-- **Frontend Development (2021 - 2023)**
+**Frontend Development (2021 - 2023)**
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
   - **[Blizko](https://blizko.ru/)** - eCommerce platform with 5+ million monthly users in Russia, Ukraine and Kazakhstan
 
-- **Computer Science Tutoring (2018 – 2021)**
+**Computer Science Tutoring (2018 – 2021)**
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
