@@ -35,7 +35,7 @@ Today I design and ship web apps that combine the accessibility of the web with 
 
 💻 **Level 6:** Picked the "Geek" class in life; immediately fell in love with tech.  
 
-🧒 **Level 15:** Joined [Unium](https://unium.ru), Russia's largest after-school education company, as its youngest employee; taught 300+ kids and learned how to explain tech to anyone.  
+🧒 **Level 15:** Joined [Unium](https://unium.ru), Russia's largest after-school education company, as its youngest employee; taught 100+ kids and learned how to explain tech to anyone.  
 
 🧑‍💻 **Level 19:** Joined [Blizko](https://blizko.ru/), a 5 million user eCommerce platform; shipped my first production features used by thousands of real customers.  
 
